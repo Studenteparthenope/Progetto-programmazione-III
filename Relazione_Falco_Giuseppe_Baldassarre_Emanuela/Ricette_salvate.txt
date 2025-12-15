@@ -1,0 +1,8 @@
+Giovanni
+Pollo al limone,10,Secondo,Facile,Carnivoro,Petto di pollo,Limone,Olio,Rosmarino
+Spaghettata,30,Primo,Media,Vegetariano,Spaghetti,Pomodorini,Aglio,Basilico
+Palline di cacao e cocco,35,Dolce,Media,Vegano,Datteri,Cacao,Cocco,Mandorle
+Spaghettata,30,Primo,Media,Vegetariano,Spaghetti,Pomodorini,Aglio,Basilico
+user1
+Spaghettata,30,Primo,Media,Vegetariano,Spaghetti,Pomodorini,Aglio,Basilico
+

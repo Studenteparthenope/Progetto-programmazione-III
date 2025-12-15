@@ -1,0 +1,12 @@
+Spaghettata,30,Primo,Media,Vegetariano,Spaghetti,Pomodorini,Aglio,Basilico
+Pollo al limone,10,Secondo,Facile,Carnivoro,Petto di pollo,Limone,Olio,Rosmarino
+Hummus di ceci,40,Antipasto,Difficile,Vegano,Ceci,Succo di limone,Aglio,Tahina
+Pasta con zucchine e parmigiano,25,Primo,Media,Vegetariano,Pasta,Zucchine,Parmigiano,Olio
+Involtini di prosciutto crudo con formaggio cremoso,20,Antipasto,Facile,Carnivoro,Fette di prosciutto crudo,Formaggio,Rucola fresca,Noci
+Palline di cacao e cocco,35,Dolce,Media,Vegano,Datteri,Cacao,Cocco,Mandorle
+Insalata di quinoa e avocado,30,Insalata,Facile,Vegano,Quinoa,Avocado,Limone,Pomodorini
+Risotto ai funghi porcini,40,Primo,Media,Vegetariano,Riso,Funghi porcini,Parmigiano,Brodo vegetale
+Pollo al curry con riso basmati,45,Secondo,Media,Carnivoro,Pollo,Riso basmati,Curry,Latte di cocco
+Spaghetti alle vongole,30,Primo,Media,Carnivoro,Spaghetti,Vongole,Aglio,Prezzemolo
+Torta di carote e noci,50,Dolce,Difficile,Vegano,Carote,Noci,Farina di mandorle,Zucchero di canna
+Burgers di lenticchie e quinoa,35,Secondo,Facile,Vegano,Lenticchie,Quinoa,Spinaci,Pane integrale
